@@ -1,3 +1,0 @@
-# Ganesha
-
-Ganesha is awesome!
