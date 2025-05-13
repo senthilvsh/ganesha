@@ -1,19 +1,19 @@
 {
-  "name": "sanatana",
-  "version": "1.0.0",
-  "description": "Sanatana Dharma",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/senthilvsh/ganesha.git"
-  },
-  "author": "Senthil Kumar <senthil.vsh@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/senthilvsh/ganesha/issues"
-  },
-  "homepage": "https://github.com/senthilvsh/ganesha#readme",
-  "exports": {
-    "import": "./out/index.js"
-  }
+    "name": "sanatana",
+    "version": "1.0.0",
+    "description": "Sanatana Dharma",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/senthilvsh/ganesha.git"
+    },
+    "author": "Senthil Kumar <senthil.vsh@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/senthilvsh/ganesha/issues"
+    },
+    "homepage": "https://github.com/senthilvsh/ganesha#readme",
+    "exports": {
+        "import": "./out/index.js"
+    }
 }
