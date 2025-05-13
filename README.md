@@ -1,3 +1,3 @@
-# Ganesha
+# Sanatana
 
-Ganesha is awesome!
+Sanatana Dharma
